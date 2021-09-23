@@ -1,0 +1,64 @@
+Basic : 07c4b4838a93d46829e2c773588cc4c4d078974d
+C : 4e3bc1a5633c57319dfc883a43c6d56c7fbe6461
+Pascal : 1e1ed7506cd1fa7ea324ae9d1d1f05745634c92a
+Pyton : c47509381ca370a5bedfa17f78afb085a0f4a00b
+Ruby : 4296876ab85076ba3d1b70538644d52242fb5cf
+C# : ea4c835a660bbc38f1f4e3e11aceb57b122fc9c2
+C++ : 56280ec2f998d51c19de8afbc16331bd248cf77d
+Java : 84a37efe60af57479e27ba22aa6fef4e13fea388
+JavaScript : 278c68f2762f01b37a8893f54079c0a6f57b94c4
+jQuery : 7b9e4506c0b27e2309bf9c0873f97740301ed256
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Help          ^O Write Out     ^W Where Is      ^K Cut           ^T Execute       ^C Location      M-U Undo         M-A Set Mark     M-] To Bracket   M-Q Previous     ^B Back          ^◂ Prev Word
+^X Exit          ^R Read File     ^\ Replace       ^U Paste         ^J Justify       ^/ Go To Line    M-E Redo         M-6 Copy         ^Q Where Was     M-W Next         ^F Forward       ^▸ Next Word
+
